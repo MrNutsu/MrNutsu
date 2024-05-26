@@ -36,5 +36,7 @@ ________________________________________________________________________________
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 -->
 <p align="center">
-    <a href="https://visitcount.itsvg.in" target="blank"><img align="center" src="https://visitcount.itsvg.in/api?id=MrNutsu&icon=2&color=0" alt="joao ravache"/></a>
+<a href="https://visitcount.itsvg.in">
+<img src="https://visitcount.itsvg.in/api?id=MrNutsu&label=Profile%20Views&color=0&icon=2&pretty=true" />
+</a>
 </p>  
