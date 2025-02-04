@@ -26,12 +26,7 @@
 <img align="center" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
 _________________________________________________________________________________________________________________________________________________
 
-<h3 align="center">📊 GitHub Status:</h3>
-<p align="center">
-    <img width="500" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=MrNutsu&theme=prussian&hide_border=false" alt="status">
-</p>
 
-<!--
 <h3 align="left">😂 Meme Aleatório:</h3>
 <img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
@@ -40,4 +35,4 @@ ________________________________________________________________________________
         <img src="https://visitcount.itsvg.in/api?id=MrNutsu&label=Profile%20Views&color=0&icon=2&pretty=true" />
     </a>
 </p>  
--->
+
