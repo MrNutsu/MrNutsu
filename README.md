@@ -25,14 +25,3 @@
 <img align="center" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop"/>
 <img align="center" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" alt="Blender"/>
 _________________________________________________________________________________________________________________________________________________
-
-
-<h3 align="left">😂 Meme Aleatório:</h3>
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
-<p align="center">
-    <a href="https://visitcount.itsvg.in">
-        <img src="https://visitcount.itsvg.in/api?id=MrNutsu&label=Profile%20Views&color=0&icon=2&pretty=true" />
-    </a>
-</p>  
-
