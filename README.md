@@ -5,7 +5,7 @@
 <p align="right"><a href="https://mini-moss.tumblr.com/post/187621403554/moon-thief-tip-jar-wallpapers-prints" name="minimoss">minimoss</a></p>
 
 - 👨‍🎓 Estudando [ECA](https://slt.ifsp.edu.br/index.php/component/content/article?id=510) no Instituto Federal de São Paulo<br>
-- 📚 Aprendendo atualmente **Arduino** e **Front-end**<br>
+- 📚 Aprendendo atualmente **Raspberry Pi** e **Front-end**<br>
 - 📫 Email para contato: **joaobravache@gmail.com**
 
 <h3 align="left">🌐 Redes:</h3>
