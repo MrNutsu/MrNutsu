@@ -1,38 +1,56 @@
-<h1 align="center">Oi 👋, Eu sou João Ravache</h1>
-<h3 align="center">Engenheiro de Controle e Automação | IFSP</h3>
+<!-- Animated GIF Header -->
+<div align="center">
+  <img align="center" alt="Coding" width="100%" height="400" src="https://64.media.tumblr.com/a24cdc485e978a1273496530d4992573/31d798f6f2dab6f4-b0/s2048x3072/831bd49387357194394502d01ed8c6937042ace9.gifv"/>
+  <p align="right"><a href="https://makrustic.tumblr.com/" name="MAK">mak</a></p>
+</div>
 
-<img align="center" alt="Coding" width="100%" height="500" src="https://64.media.tumblr.com/2244acdfb385ca2c4ba2761ba98f8034/tumblr_pxmcb75ml01xvoqyho1_640.gifv"/>
-<p align="right"><a href="https://mini-moss.tumblr.com/post/187621403554/moon-thief-tip-jar-wallpapers-prints" name="minimoss">minimoss</a></p>
+---------------------------------------------------------------------
 
-- 👨‍🎓 Estudando [ECA](https://slt.ifsp.edu.br/index.php/component/content/article?id=510) no Instituto Federal de São Paulo<br>
-- 📚 Aprendendo atualmente **Raspberry Pi**<br>
-- 📫 Email para contato: **joaobravache@gmail.com**
+<!-- About Me Section -->
+<h3 align="center"> João Pedro Blagitz Ravache</h3>
 
-<h3 align="left">🌐 Redes:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/joaoravache" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="joao ravache" height="21" width="69" /></a>
-<a href="https://stackoverflow.com/users/25216719" target="blank"><img align="center" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="joao ravache" height="21" width="97" /></a> 
-<a href="https://codepen.io/MrNutsu" target="blank"><img align="center" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="joao ravache" height="27" width="97" /></a> 
+<br>
 
-<h3 align="left">💻 Lista de Conhecimentos:</h3>
+<h3 align="left">💫 Sobre Mim</h3>
 
-<p align="left">
+<h4>
+- 👨‍🎓 Estudando [Engenharia de Controle e Automação](https://slt.ifsp.edu.br/index.php/component/content/article?id=510) no Instituto Federal de São Paulo - Campus Salto
+- 📖 Focado a aprender e me desenvolver<br>
+- ⚡ Interessado em Automação Industrial, IoT, Sistemas Embarcados e Robótica<br>
+- 📫 Email para contato: <strong>joaobravache@gmail.com</strong>
 
-<h3 align="left">👨‍💻Linguagens:</h3>
-<img align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img align="center" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-<img align="center" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img align="center" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
-<img align="center" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
-<img align="center" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img align="center" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<!-- Skills Section -->
+<h3 align="center">🚀 Linguagens & Ferramentas</h3>
 
-<h3 align="left">🖍Design:</h3>
-<img align="center" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
-<img align="center" src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
-<img align="center" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cpp,c,python,java,html" /><br><br>
+  <img src="https://skillicons.dev/icons?i=photoshop,blender,vscode,github,git,windows,lua" /><br>
+</div>
 
-<h3 align="left">💡Plataformas:</h3>
-<img align="center" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"/>
-<img align="center" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"/>
-_________________________________________________________________________________________________________________________________________________
+<!-- git stat-->
+<h3 align="center">🌱 Github Status</h3>
+<br>
+<div align="center">
+  <img width="435" src="https://github-readme-stats.vercel.app/api?username=mrnutsu&count_private=true&show_icons=true&theme=nord&rank_icon=github&border_radius=10"/>
+  <img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrnutsu&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+<br/>
+
+<!-- Activity Graph -->
+<h3 align="center">📊 Atividade de Contribuição</h3>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrnutsu&theme=react-dark&bg_color=0D1117&color=008F11&line=248D27&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+</div>
+
+
+<!-- ending-->
+<div align="center">
+  <img align="center" alt="Coding" width="100%" height="400" src="https://64.media.tumblr.com/e885f1406259a93bf170ca572fb7e627/ace5318d5696d5fb-67/s540x810/85e3c795b1a593ceeddd61accdb11ec56bce78ad.gifv"/>
+  <p align="right"><a href="https://www.tumblr.com/zedotagger" name="ZEDOTAGGER">zedotagger</a></p>
+</div>
+
+<div align="center">
+  <p>⚠️ Esse README é unicamente projetado por <strong>João Ravache</strong>.
+</div>
