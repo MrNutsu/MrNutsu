@@ -47,8 +47,8 @@
 
 <!-- ending-->
 <div align="center">
-  <img align="center" alt="Coding" width="100%" height="400" src="https://64.media.tumblr.com/e885f1406259a93bf170ca572fb7e627/ace5318d5696d5fb-67/s540x810/85e3c795b1a593ceeddd61accdb11ec56bce78ad.gifv"/>
-  <p align="right"><a href="https://www.tumblr.com/zedotagger" name="ZEDOTAGGER">zedotagger</a></p>
+  <img align="center" alt="Coding" width="870" height="614" src="arte/dotonbori.png"/>
+  <p align="right"><a href="https://www.nemupan.com/gallery" name="NEMUPAN">nemupan</a></p>
 </div>
 
 <div align="center">
