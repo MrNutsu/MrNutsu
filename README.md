@@ -14,7 +14,7 @@
 <h3 align="left">💫 Sobre Mim</h3>
 
 <h4>
-- 👨‍🎓 Estudando [Engenharia de Controle e Automação](https://slt.ifsp.edu.br/index.php/component/content/article?id=510) no Instituto Federal de São Paulo - Campus Salto
+- 👨‍🎓 Estudando <a href="https://slt.ifsp.edu.br/index.php/component/content/article?id=510">Engenharia de Controle e Automação</a> no Instituto Federal de São Paulo - Campus Salto<br>
 - 📖 Focado a aprender e me desenvolver<br>
 - ⚡ Interessado em Automação Industrial, IoT, Sistemas Embarcados e Robótica<br>
 - 📫 Email para contato: <strong>joaobravache@gmail.com</strong>
