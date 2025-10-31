@@ -45,12 +45,12 @@
 </div>
 
 
-<!-- ending
+
 <div align="center">
-  <img align="center" alt="Coding" width="870" height="614" src="arte/dotonbori.png"/>
+  <img align="center" alt="Coding"  src="arte/dotonbori.png"/>
   <p align="right"><a href="https://www.nemupan.com/gallery" name="NEMUPAN">nemupan</a></p>
 </div>
--->
+
 <!--
 <div align="center">
   <p>⚠️ Esse README é unicamente projetado por <strong>João Ravache</strong>.
