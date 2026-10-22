@@ -38,14 +38,6 @@
 </div>
 <br/>
 
-<!-- Activity Graph -->
-<h3 align="center">📊 Atividade de Contribuição</h3>
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrnutsu&theme=react-dark&bg_color=0D1117&color=008F11&line=248D27&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
-</div>
-
-
-
 <div align="center">
   <img align="center" alt="Coding"  src="arte/dotonbori.png"/>
   <p align="right"><a href="https://www.nemupan.com/gallery" name="NEMUPAN">nemupan</a></p>
